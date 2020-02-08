@@ -10,5 +10,5 @@ I used HTML and CSS to make my portfolio
 ## Support and contact details
 Incase of emergency or support, i can always be found through the email brianadala15@gmail.com
 ### License
-MIT copyright 2020
+<a href=https://choosealicense.com/licenses/mit/>MIT</a> 2020.
   
